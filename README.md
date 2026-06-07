@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Reflected Cross-Site Scripting vulnerability auditor targeting HTML input form indices.
+  name: py-xss-scanner version: 1.0 type: Repository author: VarshuAi description: >   Reflected Cross-Site Scripting vulnerability auditor targeting HTML input form indices. primary_tech: Python
 primary_tech: Python
 ```
 
